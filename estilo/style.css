@@ -1,0 +1,17 @@
+@charset "UFT-8";
+
+body {
+    
+}
+
+header {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
